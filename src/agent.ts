@@ -26,7 +26,7 @@ try {
         execution: {
           maxIterations: 8,
           maxRetriesPerStep: 3,
-          totalMaxRetries: 0,
+          totalMaxRetries: 10,
         },
       },
     )
